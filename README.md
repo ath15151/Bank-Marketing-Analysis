@@ -1,5 +1,7 @@
 🏦 Bank Marketing Analysis (Microsoft Excel)
+
 Description:
+
 In this project, I analyzed customer data from a bank’s marketing campaigns using Microsoft Excel to identify key trends and insights that influence subscription rates for term deposits.
 
 Key Tasks:
